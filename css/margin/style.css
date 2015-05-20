@@ -1,0 +1,44 @@
+body{
+    margin: 0px;
+}
+
+.mg{
+    background-color: #c7ffd9;
+    width: 100px;
+    height: 100px;
+    margin: 100px;
+}
+
+
+.container{
+    margin: 100px;
+}
+
+.middle{
+    border-style: dotted;
+}
+
+.in{
+    padding: 100px;
+}
+
+.content{
+    background-color: #c7ffd9;
+}
+
+
+.container1{
+    margin: 100px;
+}
+
+.middle1{
+    border-style: dotted;
+}
+
+.in1{
+    padding: 100px;
+}
+
+.content1{
+    background-color: #c7ffd9;
+}

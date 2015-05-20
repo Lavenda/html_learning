@@ -1,0 +1,14 @@
+p{
+    font-size: 40px;
+    font-family: fantasy;
+
+}
+
+@font-face {
+    font-family: myfont;
+    src: url();
+}
+
+div{
+    font-family: myfont;
+}

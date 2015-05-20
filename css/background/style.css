@@ -1,0 +1,12 @@
+/*body{*/
+    /*/!*background-color: gray;*!/*/
+    /*background-image: url("bg.jpg;");*/
+    /*background-repeat: no-repeat;*/
+/*}*/
+
+p{
+    width: 200px;
+    padding: 10px;
+    text-transform: capitalize;
+    text-shadow: 5px 5px 5px #FF0000;
+}
