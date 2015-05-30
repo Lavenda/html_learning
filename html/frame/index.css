@@ -1,0 +1,66 @@
+
+body{
+    background-color: black;
+}
+
+#container{
+    width: 100%;
+    height: 950px;
+    background-color:darkgray;
+}
+
+div#heading{
+    width: 100%;
+    height: 10%;
+    background-color: red;
+}
+
+div#content_menu{
+    width: 20%;
+    height: 80%;
+    background-color: #c7ffd9;
+    float: left;
+
+}
+
+div#content_body{
+    width: 80%;
+    height: 80%;
+    background-color: blanchedalmond;
+    float: left;
+}
+
+div#footing{
+    width: 100%;
+    height: 10%;
+    backgroud-color: red;
+}
+
+
+
+
+td#heading{
+    width: 100%;
+    height: 10%;
+    background-color: red;
+}
+
+td#content_menu{
+    width: 20%;
+    height: 80%;
+    background-color: #c7ffd9;
+
+}
+
+td#content_body{
+    width: 80%;
+    height: 80%;
+    background-color: blanchedalmond;
+}
+
+td#footing{
+    width: 100%;
+    height: 10%;
+    background-color: red;
+}
+

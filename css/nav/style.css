@@ -1,0 +1,28 @@
+ul{
+    list-style-image: none;
+    margin: 0px;
+    padding: 0px;
+    background-color: #FFCCFF;
+    width: 280px;
+    text-align: center;
+}
+
+a{
+    width: 70px;
+    text-align: center;
+    font-size: 30px;
+    text-decoration: none;
+    /*display: block;*/
+    background-color: deepskyblue;
+    color: white;
+    /*border-radius: 50%;*/
+}
+
+a:active, a:hover{
+    background-color: cornflowerblue;
+}
+
+li{
+    display: inline;
+    padding: 3px 3px;
+}

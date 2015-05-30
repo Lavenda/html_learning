@@ -1,0 +1,25 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+li{
+    list-style: none;
+    width: 100px;
+}
+
+#div1{
+    width: 950px;
+    height: auto;
+    margin: 20px auto;
+}
+
+ul{
+    width: 250px;
+    float: left;
+}
+
+img{
+    width: 100px;
+    height: auto;
+}

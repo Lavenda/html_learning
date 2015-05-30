@@ -1,6 +1,11 @@
-[title]{
-    color: blue;
+/*p{*/
+    /*color: blue;*/
+/*}*/
+
+h1, h2{
+    color: red;
 }
-[title=red]{
+
+[name]{
     color: red;
 }
