@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+    <button id="btn" onclick="assign()">Button</button>
+    <!--<p id="ptime"></p>-->
+    <div id="div"></div>
+    <script>
+        function getLoc(){
+            var div = document.getElementById("div");
+            var p1 = document.createElement("p");
+            p1.innerHTML = window.location.hostname;
+            div.appendChild(p1);
+            var p2 = document.createElement("p");
+            p2.innerHTML = window.location.pathname;
+            div.appendChild(p2);
+            var p3 = document.createElement("p");
+            p3.innerHTML = window.location.port;
+            div.appendChild(p3);
+            var p4 = document.createElement("p");
+            p4.innerHTML = window.location.href;
+            div.appendChild(p4);
+        }
+
+
+        function assign(){
+            location.assign("https://www.baidu.com");
+        }
+    </script>
+</body>
+</html>
