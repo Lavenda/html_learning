@@ -2,38 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0dbadc44-b1af-4a2e-97fc-7a915db7ec45" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html5/dragdrop/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html5/canvas/images/2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html5/canvas/js/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html5/createjs/js/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html5/dragdrop/js/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html5/touch/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html5/dragdrop/js/app1.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html5/appcache/appcache.appcache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html5/videoaudio/audio.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html5/webworker/count.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html5/canvas/lib/easeljs-0.8.1.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html5/createjs/lib/easeljs-0.8.1.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html5/appcache/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html5/canvas/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html5/createjs/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html5/dragdrop/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html5/svg/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html5/touch/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html5/webworker/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/responsivelayout/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html5/appcache/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html5/webworker/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html5/dragdrop/index1.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/responsivelayout/index1.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html5/webstorage/localstorage.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html5/webstorage/localstorage.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html5/webstorage/sessionstorage.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html5/webstorage/sessionstorage.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html5/svg/source.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html5/appcache/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/responsivelayout/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/responsivelayout/style1.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap/index01.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="html_learning.iws" />
@@ -56,53 +28,35 @@
     <favorites_list name="html_learning" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5">
-      <split-first>
-        <leaf>
-          <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/responsivelayout/index.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-8.142858">
-                  <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="index1.html" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/responsivelayout/index1.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.2541306">
-                  <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file leaf-file-name="style1.css" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/responsivelayout/style1.css">
-              <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="1.082371">
-                  <caret line="74" column="5" selection-start-line="74" selection-start-column="5" selection-end-line="74" selection-end-column="5" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf>
+      <file leaf-file-name="index01.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/bootstrap/index01.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.9103069">
+              <caret line="70" column="7" selection-start-line="70" selection-start-column="7" selection-end-line="70" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bootstrap/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="5" selection-end-column="68" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
-        <option value="Html5" />
         <option value="CSS File" />
+        <option value="Html5" />
       </list>
     </option>
   </component>
@@ -122,9 +76,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/css/summary/index.html" />
-        <option value="$PROJECT_DIR$/css/summary/style.css" />
-        <option value="$PROJECT_DIR$/javascript/introduce/idnex.html" />
         <option value="$PROJECT_DIR$/javascript/background/index.html" />
         <option value="$PROJECT_DIR$/javascript/background/style.css" />
         <option value="$PROJECT_DIR$/javascript/syntax/js.js" />
@@ -173,6 +124,9 @@
         <option value="$PROJECT_DIR$/responsivelayout/index.html" />
         <option value="$PROJECT_DIR$/responsivelayout/index1.html" />
         <option value="$PROJECT_DIR$/responsivelayout/style1.css" />
+        <option value="$PROJECT_DIR$/style.css" />
+        <option value="$PROJECT_DIR$/bootstrap/index.html" />
+        <option value="$PROJECT_DIR$/bootstrap/index01.html" />
       </list>
     </option>
   </component>
@@ -235,6 +189,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -263,14 +218,13 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="responsivelayout" />
+              <option name="myItemId" value="bootstrap" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -291,18 +245,18 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace\html\html_learning\bootstrap" />
       <recent name="D:\workspace\html\html_learning\html5\webworker" />
       <recent name="D:\workspace\html\html_learning\html5\canvas\images" />
       <recent name="D:\workspace\html\html_learning\html5\canvas\lib" />
       <recent name="D:\workspace\html\html_learning\html5\createjs" />
-      <recent name="D:\workspace\html_learning\html5\dragdrop" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\workspace\html\html_learning\bootstrap" />
       <recent name="D:\workspace\html\html_learning\html5\createjs" />
       <recent name="D:\workspace\html\html_learning\html5\createjs\lib" />
       <recent name="D:\workspace\html_learning\javascript\project\images" />
       <recent name="D:\workspace\html_learning\css\float\images" />
-      <recent name="D:\workspace\html_learning\javascript\project\css" />
     </key>
   </component>
   <component name="RunManager">
@@ -592,15 +546,17 @@
       <workItem from="1433781171353" duration="1080000" />
       <workItem from="1433853364542" duration="7767000" />
       <workItem from="1433950932097" duration="2296000" />
+      <workItem from="1434028897515" duration="4222000" />
+      <workItem from="1434121931775" duration="1549000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="97546000" />
+    <option name="totallyTimeSpent" value="103317000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-5" y="-5" width="2570" height="1424" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -609,6 +565,7 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.07148437" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -617,15 +574,14 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -648,34 +604,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/javascript/error/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.28402832">
-          <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/DOMCore.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.40723634">
-          <caret line="440" column="12" selection-start-line="440" selection-start-column="0" selection-end-line="440" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javascript/explorer/history.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javascript/explorer/open.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/javascript/explorer/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -947,7 +875,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -955,7 +882,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.13163972">
           <caret line="9" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -963,7 +889,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.029253272">
           <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -971,7 +896,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-8.142858">
           <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -979,30 +903,56 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.043879908">
           <caret line="3" column="35" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/responsivelayout/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.142858">
+        <state vertical-scroll-proportion="0.0">
           <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/responsivelayout/style1.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.082371">
+        <state vertical-scroll-proportion="0.29792148">
           <caret line="74" column="5" selection-start-line="74" selection-start-column="5" selection-end-line="74" selection-end-column="5" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/responsivelayout/index1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2541306">
+        <state vertical-scroll-proportion="-11.535714">
           <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2047729">
+          <caret line="14" column="41" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="5" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap/index01.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9103069">
+          <caret line="70" column="7" selection-start-line="70" selection-start-column="7" selection-end-line="70" selection-end-column="7" />
           <folding />
         </state>
       </provider>
